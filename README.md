@@ -3,7 +3,7 @@
 A template project with:
 
 - Python 3.10
-- Django 4.1
+- Django 3.2 LTS
 
 ## Features
 
