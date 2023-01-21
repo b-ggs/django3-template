@@ -1,3 +1,5 @@
+# Deprecated since Django 4.2 LTS is going to be [released in April 2023](https://docs.djangoproject.com/en/dev/releases/4.2/). Please use [django4-template](https://github.com/b-ggs/django4-template) moving forward.
+
 # django-template
 
 A template project with:
